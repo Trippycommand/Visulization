@@ -7,3 +7,5 @@ This Repository contains the statistical analysis of the causes of global warmin
 ![image](https://user-images.githubusercontent.com/89577595/144612370-a87fe6d3-25f9-462d-812b-3648f7a4cf2e.png)
 ![image](https://user-images.githubusercontent.com/89577595/144612430-c10fde30-47ec-4ee7-bc24-fb226f030208.png)
 ![image](https://user-images.githubusercontent.com/89577595/144612467-8662b4cb-1dec-4adf-b03f-6c40f04d68dc.png)
+
+Contributors
