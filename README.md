@@ -9,9 +9,11 @@ This Repository contains the statistical analysis of the causes of global warmin
 ![image](https://user-images.githubusercontent.com/89577595/144612467-8662b4cb-1dec-4adf-b03f-6c40f04d68dc.png)
 
 Contributors
+
 Aryan Deshmukh
 Manan Sayar
 
 
 Acknowledgement
+
 We would like to thanks Prof. Vaibhav Vasani and Prof. Pradnya Bhangale for the guidance and support throughout the coursework.
